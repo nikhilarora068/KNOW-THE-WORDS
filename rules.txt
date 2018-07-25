@@ -1,0 +1,17 @@
+KNOW THE WORDS
+
+RULES
+
+The players are provided with a set of five random letters and each letter has points ranging from 1 to 5.
+
+A player has to make a word using the provided letters or if unable to do so they can pass their turn to the next player.
+
+The sum of points corresponding to each letter in a word entered by a player is his/her score after that turn.
+
+Repetition of letters is allowed.
+
+For an invalid (meaningless/misspelled) word or a previously entered word zero points will be 	                                    awarded and the player’s turn will be passed on to the next player.                       
+
+The game ends when all the players pass their turn i.e. all the players are out of words.
+
+ At the end of the game the player scoring the maximum points wins.
